@@ -1,0 +1,56 @@
+title: 2017 일렉트릭 스카이 뮤직 페스티벌,|place: 서울 잠실 종합운동장 보조경기장,|date: 2017-10-03, |artist: None, |url: ?
+title: 2017 잔다리페스타,|place: 서울 무브홀, 상상마당, 롤링홀 외 홍대일원 공연장,|date: 2017-09-29, |artist: None, |url: ?
+title: 2017 THE CRY ground 일반티켓,|place: 서울 난지한강공원,|date: 2017-10-14, |artist: None, |url: ?
+title: 2017 전유성의 코미디시장 철가방극장 상시공연-경북청도,|place: 경북 경북 청도 풍각 성곡 철가방극장,|date: 2011-05-20, |artist: None, |url: ?
+title: 2017 빅필드 뮤직페스티벌 인 간월도,|place: 충남 서산 간월도 일원,|date: 2017-09-16, |artist: None, |url: ?
+title: 서 민 - 기생충과 인간,|place: 대구 대구 수성아트피아,|date: 2017-09-16, |artist: None, |url: ?
+title: Someday Festival 2017 4차티켓,|place: 서울 난지한강공원,|date: 2017-09-16, |artist: None, |url: ?
+title: 콘서트 다시,봄 ,|place: 대구 대덕문화전당,|date: 2017-09-16, |artist: None, |url: ?
+title: 아이조아 콘서트 <생상스 - 동물의 사육제>,|place: 대구 대구콘서트하우스,|date: 2017-09-16, |artist: None, |url: ?
+title: 제11회 칠포재즈페스티벌,|place: 경북 칠포해수욕장,|date: 2017-09-22, |artist: None, |url: ?
+title: 마르코폴로의 음악여행,|place: 전북 한국소리문화의전당,|date: 2017-09-22, |artist: None, |url: ?
+title: CBS와 함께하는 별빛 콘서트,|place: 전북 한국소리문화의전당,|date: 2017-09-22, |artist: None, |url: ?
+title: 2017 조항조 & 장윤정 콘서트 - 목포,|place: 전남 목포시민문화체육센터,|date: 2017-09-23, |artist: None, |url: ?
+title: 2017 수상한거리 페스티벌 Season 3 : Hang out with Him ,|place: 서울 스테이라운지, 카페피카소, CCM아지트,|date: 2017-09-23, |artist: None, |url: ?
+title: 옹기장이 30주년 기념공연,|place: 서울 꽃재교회,|date: 2017-09-23, |artist: None, |url: ?
+title: 월드뮤직빅파티,|place: 전북 한국소리문화의전당,|date: 2017-09-23, |artist: None, |url: ?
+title: 2017 쉘위워크,|place: 서울 서울 월드컵공원 평화잔디광장,|date: 2017-09-23, |artist: None, |url: ?
+title: 운림산방 - 구름으로 그린 숲,|place: 대구 대덕문화전당,|date: 2017-09-23, |artist: None, |url: ?
+title: 폐막공연 - 골든 마우스 쇼,|place: 전북 한국소리문화의전당,|date: 2017-09-24, |artist: None, |url: ?
+title: 2017 조항조 & 장윤정 콘서트 - 광주,|place: 광주 광주문화예술회관,|date: 2017-10-01, |artist: None, |url: ?
+title: [부산] 장윤정 & 조항조 콘서트,|place: 부산 부산시민회관,|date: 2017-10-07, |artist: None, |url: ?
+title: 리차드 막스 로맨틱콘서트 - 부산,|place: 부산 부산 벡스코 오디토리움,|date: 2017-10-15, |artist: None, |url: ?
+title: 김영나 - 서양미술에 나타난 인간상,|place: 대구 대구 수성아트피아,|date: 2017-10-27, |artist: None, |url: ?
+title: 양희은 콘서트 - 안동,|place: 경북 안동문화예술의전당,|date: 2017-12-15, |artist: None, |url: ?
+title: 아이조아콘서트 <잼스틱>,|place: 대구 대구콘서트하우스,|date: 2017-12-23, |artist: None, |url: ?
+title: 메리 크리스마스 콘서트 - 코리안팝스오케스트라,|place: 대구 대구콘서트하우스,|date: 2017-12-24, |artist: None, |url: ?
+title: 헤일리 로렌과 친구들(Halie Loren & Friends),|place: 서울 Club K Seoul,|date: 2017-09-11, |artist: None, |url: ?
+title: 김종서 30주년 콘서트,|place: 서울 대학로 SH아트홀,|date: 2017-09-12, |artist: None, |url: ?
+title: 제10회 대구국제재즈축제,|place: 대구 대구 수성아트피아,|date: 2017-09-13, |artist: None, |url: ?
+title: [VIP호텔/한정] 반얀트리 루프탑 DJ클럽 파티,|place: 서울 반얀트리 클럽 앤 스파 서울,|date: 2017-09-15, |artist: None, |url: ?
+title: 순천시립청소년교향악단 제7회 정기연주회,|place: 전남 순천문화예술회관,|date: 2017-09-16, |artist: None, |url: ?
+title: 클나무오케스트라와 함께하는 유지나 콘서트-부안,|place: 전북 부안예술회관,|date: 2017-09-18, |artist: None, |url: ?
+title: MOCCA LIVE IN SEOUL 2017,|place: 서울 KT&G 상상마당,|date: 2017-09-21, |artist: None, |url: ?
+title: 韓·中·日 전통극 페스타,|place: 대구 대구오페라하우스,|date: 2017-09-21, |artist: None, |url: ?
+title: 별이 빛나는 밤, 고흐와 함께 떠나는 음악 여행-보성,|place: 전남 보성군문화예술회관,|date: 2017-09-21, |artist: None, |url: ?
+title: 시네마 재즈 스케이프 콘서트,|place: 서울 고양 아람누리 노루목 야외극장,|date: 2017-09-23, |artist: None, |url: ?
+title: 2017 변진섭 30주년 콘서트 <TIMELESS> - 대구,|place: 대구 경북대학교 대강당,|date: 2017-09-23, |artist: None, |url: ?
+title: 오페라 갈라콘서트-광주,|place: 광주 광주문화예술회관,|date: 2017-09-28, |artist: None, |url: ?
+title: Happy Rippi B Party 2017 ,|place: 서울 구로아트밸리 예술극장,|date: 2017-09-30, |artist: None, |url: ?
+title: 마술의 제왕 - 마술원정대,|place: 서울 CTS 아트홀,|date: 2017-09-30, |artist: None, |url: ?
+title: 서울숲 재즈페스티벌 2017,|place: 서울 서울숲,|date: 2017-10-07, |artist: None, |url: ?
+title: 2017 김연자 서울콘서트 - 아모르파티,|place: 서울 KBS아레나 & 제2체육관,|date: 2017-10-07, |artist: None, |url: ?
+title: 2017 남진 콘서트 - 제주,|place: 제주 제주아트센터,|date: 2017-10-08, |artist: None, |url: ?
+title: 리차드 막스 로맨틱콘서트 - 인천,|place: 인천 인천 남동체육관,|date: 2017-10-12, |artist: None, |url: ?
+title: 리차드 막스 로맨틱콘서트 - 서울,|place: 서울 고려대학교 화정체육관,|date: 2017-10-14, |artist: None, |url: ?
+title: 맘마미아 콘서트 - 경주,|place: 경북 경주예술의전당,|date: 2017-10-14, |artist: None, |url: ?
+title: 2017 더 바이브 패밀리 콘서트 - 전주,|place: 전북 한국소리문화의전당,|date: 2017-10-14, |artist: None, |url: ?
+title: 신세경 팬미팅 Serendipity,|place: 서울 동서울아트홀 (강변역 동서울호텔 B2),|date: 2017-10-14, |artist: None, |url: ?
+title: 맘마미아 콘서트 - 거제,|place: 경남 거제문화예술회관 대공연장,|date: 2017-10-15, |artist: None, |url: ?
+title: 맘마미아 콘서트 - 순천,|place: 전남 순천문화예술회관,|date: 2017-10-19, |artist: None, |url: ?
+title: 맘마미아 콘서트 - 의정부,|place: 경기 의정부 예술의전당,|date: 2017-10-21, |artist: None, |url: ?
+title: 맘마미아 콘서트 - 당진,|place: 충남 당진 문예의전당,|date: 2017-10-22, |artist: None, |url: ?
+title: 키노코호텔(KINOCO HOTEL) 첫 내한공연,|place: 서울 홍대 웨스트브릿지 라이브홀,|date: 2017-10-28, |artist: None, |url: ?
+title: 이은미 2017-2018 전국투어 : 알바트로스 – 대구,|place: 대구 경북대학교 대강당,|date: 2017-10-28, |artist: None, |url: ?
+title: 수작콘서트 with 옥상달빛 - 대구,|place: 대구 대덕문화전당,|date: 2017-11-11, |artist: None, |url: ?
+title: MURA MASA IN SEOUL,|place: 서울 홍대 무브홀(MUV HALL),|date: 2018-01-03, |artist: None, |url: ?
